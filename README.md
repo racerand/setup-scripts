@@ -1,7 +1,7 @@
 This is a repository for varius shell scripts to quickly get a new installation of one of my Debian machines ready for use.
 
 # Main-Scripts
-- pi.setup: Updates all installed packages and calls:
+- pi-setup: Updates all installed packages and calls:
   - nordvpn-setup
   - chromium-media-setup
 
