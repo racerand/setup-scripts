@@ -5,6 +5,5 @@ sudo apt upgrade
 # Nordvpn
 sh nordvpn-setup.sh
 
-# install new chromium browser for media
-curl -fsSL https://pi.vpetkov.net -o ventz-media-pi
-sh ventz-media-pi
+# install new chromium browser for media (only 32-bit)
+sh chromium-media-setup.sh
