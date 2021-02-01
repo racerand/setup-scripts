@@ -2,6 +2,8 @@
 sudo apt update
 sudo apt upgrade
 
+sh on-off-setup.sh
+
 # Nordvpn
 sh nordvpn-setup.sh
 
