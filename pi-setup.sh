@@ -2,7 +2,7 @@
 sudo apt update
 sudo apt upgrade
 
-sh on-off-setup.sh
+sudo sh oneninedesign-case-setup.sh
 
 # Nordvpn
 sh nordvpn-setup.sh
